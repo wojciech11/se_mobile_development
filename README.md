@@ -25,6 +25,7 @@
 
 3. Projektowanie aplikacji mobilnych 1 [4h]:
 
+   - ViewModel;
    - Przetwarzanie asynchroniczne;
    - Animacje i inne komponenty;
    - (dodatkowe) Warsztaty.
