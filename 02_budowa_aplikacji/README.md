@@ -1,4 +1,4 @@
-# Budowa aplikacji
+# Spotkanie 2 - Budowa aplikacji
 
 Instrukcje:
 

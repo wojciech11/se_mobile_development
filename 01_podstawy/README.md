@@ -1,4 +1,4 @@
-# Podstawy
+# Spotkanie 1 - Podstawy
 
 Cel ćwiczeń to zbudowanie 2 "ekranów", w jednym wprowadzamy tekst, a w drugim -- po naciśnięciu przycisku -- wyświetlamy wprowadzony tekst:
 
