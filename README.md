@@ -25,7 +25,7 @@
 
 3. Projektowanie aplikacji mobilnych 1 [4h]:
 
-   - [ViewModel i MVVM](03_projektowanie_app/lab4b.md);
+   - [ViewModel i MVVM](03_projektowanie_aplikacji/lab4b.md);
    - Przetwarzanie asynchroniczne;
    - Animacje i inne komponenty;
    - (dodatkowe) Warsztaty.
