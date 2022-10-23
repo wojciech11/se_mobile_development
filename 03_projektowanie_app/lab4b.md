@@ -10,7 +10,7 @@ Patrz [dokumentacja](https://developer.android.com/topic/architecture).
 
 ## Zadanie 1
 
-Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragmentami z użyciem *Fragment Result API*. Teraz zobaczymy jak możemy uzyskać taki sam efekt korzystając z `ViewModel`.
+Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragmentami z użyciem *Fragment Result API* (patrz [dokumentacja](https://developer.android.com/guide/fragments/communicate)). Teraz zobaczymy jak możemy uzyskać taki sam efekt korzystając z `ViewModel`.
 
 ## Zadanie 2
 
