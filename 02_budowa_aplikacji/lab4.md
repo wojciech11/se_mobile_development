@@ -239,7 +239,7 @@ Więcej w [dokumentacji](https://developer.android.com/guide/fragments/communica
    </androidx.constraintlayout.widget.ConstraintLayout>
    ```
 
-3. Utwórz dwa FragmentActivity i dodaj linijki programu które są podane poniżej
+3. Utwórz dwa layouty dla naszych dwóch fragmentów, które się będą z sobą komunikować:
 
    - `fragement_one.xml`:
 
@@ -357,8 +357,6 @@ Więcej w [dokumentacji](https://developer.android.com/guide/fragments/communica
    class MainActivity : AppCompatActivity() {
        override fun onCreate(savedInstanceState: Bundle?) {
            super.onCreate(savedInstanceState)
-           setContentView(R.layout.activity_main)
-
            setContentView(R.layout.activity_main)
 
            supportFragmentManager.beginTransaction().replace(
