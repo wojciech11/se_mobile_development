@@ -90,13 +90,13 @@ Co to są coroutines?
    import androidx.lifecycle.ViewModel
 
    class ProgressViewModel : ViewModel()  {
-   
+
        private val mutableCounter = MutableLiveData<Int>()
        val counter: LiveData<Int> get() = mutableCounter
-   
+
        private val mutableInProgress = MutableLiveData<Boolean>()
        val inProgress: LiveData<Boolean> get() = mutableInProgress
-   
+
        private val timer = object: CountDownTimer(4000, 1000) {
            override fun onTick(millisUntilFinished: Long) {
                mutableCounter.value = mutableCounter.value?.plus(1)
@@ -375,7 +375,7 @@ BroadcastReceiver to komponent który umożliwia rejestrację zdarzeń systemowy
 <small>Źródło: <a href="https://developer.android.com/guide/components/services">developer.android.com/guide/components/services</a></small>
 </p>
 
-### Zadanie
+### Zadanie 1
 
 1. Utwórz aplikację o nazwie *AlarmManagerApp* z dwoma przyciskami buton.
 2. Plik `activity_main.xml` powinien wyglądać mniej więcej tak:
@@ -480,3 +480,7 @@ BroadcastReceiver to komponent który umożliwia rejestrację zdarzeń systemowy
 7. Przetestuj aplikację.
 
 <!-- Wykorzystamy serwis alarmu (patrz [dokumentacja](https://developer.android.com/training/scheduling/alarms)): -->
+
+### Zadanie 2
+
+Wspólnie z prowadzącym omówimy sekcję [Extending the Service class](https://developer.android.com/guide/components/services#ExtendingService).
