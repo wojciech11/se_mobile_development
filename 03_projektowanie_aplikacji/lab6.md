@@ -182,7 +182,7 @@ Powiadomienia są wyświetlane w górnej części ekranu, jeśli urządzenie jes
 
 ### Zadanie
 
-Stwórzmy aplikację, która pozwoli nam przesłać powiadomienie z aplikacji i wyświetlić te powiadomienie na ekranie startowym naszego smartfonu.
+Utwórzymy aplikację, która pozwoli nam przesłać powiadomienie z aplikacji i wyświetlić te powiadomienie na ekranie startowym naszego smartfonu.
 
 1. Utwórz aplikację o nazwie *NotificationApp*.
 
