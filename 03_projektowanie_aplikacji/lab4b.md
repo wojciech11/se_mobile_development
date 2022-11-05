@@ -107,11 +107,11 @@ Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragment
 
    ```kotlin
    class ItemViewModel : ViewModel() {
-    private val mutableSelectedItem = MutableLiveData<string>()
-    val selectedItem: LiveData<string> get() = mutableSelectedItem
+    private val mutableSelectedItem = MutableLiveData<String>()
+    val outputText: LiveData<String> get() = mutableSelectedItem
 
-    fun selectItem(item: Item) {
-        mutableSelectedItem.value = item
+    fun setText(txt: String) {
+        mutableSelectedItem.value = txt
     }
    }
    ```
