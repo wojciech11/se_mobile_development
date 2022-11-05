@@ -4,7 +4,7 @@ Zalecane: API 30.
 
 ## Architektura aplikacji
 
-Patrz [dokumentacja](https://developer.android.com/topic/architecture).
+Patrz [dokumentacja](https://developer.android.com/topic/architecture) oraz [MVVM](https://www.digitalocean.com/community/tutorials/android-mvvm-design-pattern).
 
 ## ViewModel
 
