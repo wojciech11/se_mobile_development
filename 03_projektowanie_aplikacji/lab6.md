@@ -483,4 +483,6 @@ BroadcastReceiver to komponent który umożliwia rejestrację zdarzeń systemowy
 
 ### Zadanie 2
 
-Wspólnie z prowadzącym omówimy sekcję [Extending the Service class](https://developer.android.com/guide/components/services#ExtendingService).
+Wspólnie z prowadzącym omówimy sekcję [Extending the Service class](https://developer.android.com/guide/components/services#ExtendingService) oraz [przykład DownloadService z tutorialu vogella.com](https://www.vogella.com/tutorials/AndroidServices/article.html).
+
+<!-- https://www.vogella.com/tutorials/AndroidTaskScheduling/article.html -->
