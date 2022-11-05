@@ -220,4 +220,4 @@ Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragment
 
 ## Zadanie 2
 
-Przegląd przez dostępne data-storage na Androidzie, patrz [dokumentacja](https://developer.android.com/training/data-storage) + zewnętrzne, e.g., Firebase lub oferty w ramach backend-as-a-service (np., [contenful](https://www.contentful.com/r/knowledgebase/mobile-backend-as-a-service/), [AWS Amplify](https://aws.amazon.com/amplify/)).
+Przegląd przez dostępne data-storage na Androidzie, patrz [dokumentacja](https://developer.android.com/training/data-storage) + zewnętrzne, e.g., Firebase lub oferty w ramach backend-as-a-service (np., [contentful](https://www.contentful.com/r/knowledgebase/mobile-backend-as-a-service/), [AWS Amplify](https://aws.amazon.com/amplify/)).
