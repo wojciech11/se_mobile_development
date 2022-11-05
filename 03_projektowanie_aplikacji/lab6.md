@@ -2,9 +2,18 @@
 
 Zalecane: API 30.
 
+## Intro
+
+Dzisiaj poznamy 2 pozostałe [podstawowe elementy aplikacji Android](https://developer.android.com/guide/components/fundamentals#Components):
+
+- <s>Activity</s>
+- **Services**
+- **BroadCast receiver**
+- Content providers (następne ćwiczenia)
+
 ## Coroutines
 
-Co to są coroutines?
+Co to są coroutines? Jaka jest ich wartość - [przykłady](https://developer.android.com/codelabs/kotlin-coroutines#4).
 
 ### Zadanie 1
 
