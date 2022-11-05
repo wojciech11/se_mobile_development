@@ -169,7 +169,8 @@ Co to są coroutines? Jaka jest ich wartość - [przykłady](https://developer.a
 Wykonaj ćwiczenie:
 
 - [Colab Kotlin Coroutines](https://developer.android.com/codelabs/kotlin-coroutines#4);
-- przeanalizuj przykłady dla [najlepszych praktykach](https://developer.android.com/kotlin/coroutines/coroutines-best-practices).
+- przeanalizuj przykłady dla [najlepszych praktykach](https://developer.android.com/kotlin/coroutines/coroutines-best-practices);
+- Napisz aplikację z użyciem [JobSchedulera](https://developer.android.com/reference/android/app/job/JobScheduler).
 
 ## Notifications - powiadomienia
 
