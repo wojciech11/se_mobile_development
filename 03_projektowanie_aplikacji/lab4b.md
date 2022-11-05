@@ -124,10 +124,12 @@ Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragment
    dependencies {
      // ...
      implementation 'androidx.activity:activity-ktx:1.5.1'
-     implementation "androidx.fragment:fragment-ktx:1.5.4"
+     implementation 'androidx.fragment:fragment-ktx:1.5.4'
      // ...
    }
    ```
+
+   Proszę nie zapomnieć Synch Gradle, żeby Gradle mógł pobrać biblioteki.
 
 5. Zacznijmy od naszej głównej aktywności `MainActivity`, aby utworzyć instancje naszego modelu do współdzielenia go między fragmentami:
 
