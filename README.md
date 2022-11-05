@@ -28,7 +28,7 @@
    - [ViewModel i MVVM](03_projektowanie_aplikacji/lab4b.md);
    - [Przetwarzanie asynchroniczne, Notifications, BroadcastReceiver i Services](03_projektowanie_aplikacji/lab6.md);
    - [Animacje i inne komponenty](03_projektowanie_aplikacji/lab7.pdf);
-   - [Praca nad projektem](03_projektowanie_aplikacji/projekt_grupowy.md);
+   - [Praca nad projektem](03_projektowanie_aplikacji/projekt_grupowy.md).
 
    Wykład: slajdy.
 
