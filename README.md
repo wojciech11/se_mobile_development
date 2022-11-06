@@ -34,16 +34,16 @@
 
 4. Projektowanie aplikacji mobilnych 2 [4h] (**w przygotowaniu**).
 
-   - [Content Providers](04_zaawansowane/lab8.md);
+   - [Storage & Content Providers](04_zaawansowane/lab8.md);
    - [RecyclerView. SharedPreferences](04_zaawansowane/lab9.md);
    - [Konfiguracja konta oraz usługi logowania z Google Firebase Auth](04_zaawansowane/lab10.md);
    - [Google Firebase Realtime Database](04_zaawansowane/lab11.md);
-   - Prezentacja projektów;
-   - Egzamin.
+   - [Prezentacja projektów](04_zaawansowane/prezentacja_projektow.md);
+   - [Egzamin](04_zaawansowane/egzamin.md).
 
-   Wykład: slajdy.
+   Wykład: [slajdy](04_zaawansowane/wyklad).
 
-## Materiały dodakowe
+## Materiały dodatkowe
 
 - [Figma and mobile apps](https://help.figma.com/hc/en-us/articles/1500007537281-Guide-to-the-Figma-mobile-app);
 - [Material design for Android](https://m3.material.io/) (dla porównania [Apple](https://developer.apple.com/design/human-interface-guidelines/foundations/materials/));
