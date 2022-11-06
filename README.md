@@ -32,13 +32,14 @@
 
    Wykład: [slajdy](03_projektowanie_aplikacji/wyklad).
 
-4. Projektowanie aplikacji mobilnych 2 [4h].
+4. Projektowanie aplikacji mobilnych 2 [4h] (**w przygotowaniu**).
 
-   - RecyclerView. SharedPreferences;
-   - Firebase Auth. Konfiguracja konta oraz usługi logowania;
-   - Firebase Realtime Database;
-   - prezentacja projektów;
-   - egzamin.
+   - [Content Providers](04_zaawansowane/lab8.md);
+   - [RecyclerView. SharedPreferences](04_zaawansowane/lab9.md);
+   - [Konfiguracja konta oraz usługi logowania z Google Firebase Auth](04_zaawansowane/lab10.md);
+   - [Google Firebase Realtime Database](04_zaawansowane/lab11.md);
+   - Prezentacja projektów;
+   - Egzamin.
 
    Wykład: slajdy.
 
