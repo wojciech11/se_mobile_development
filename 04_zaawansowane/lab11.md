@@ -1,1 +1,1 @@
-# Projektowanie aplikacji Android. Firebase Realtime Database
+# Google Firebase Realtime Database (WIP)

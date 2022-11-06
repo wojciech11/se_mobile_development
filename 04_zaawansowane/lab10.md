@@ -1,1 +1,1 @@
-# Firebase Auth - Konfiguracja konta oraz usługi logowania.
+# Firebase Auth - Konfiguracja konta oraz usługi logowania (WIP)

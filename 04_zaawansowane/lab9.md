@@ -1,1 +1,1 @@
-# RecyclerView. SharedPreferences.
+# RecyclerView i  SharedPreferences (WIP)
