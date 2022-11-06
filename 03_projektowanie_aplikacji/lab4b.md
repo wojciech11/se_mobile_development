@@ -118,7 +118,7 @@ Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragment
 
    Wykorzystujemy tutaj [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) i [MutableLiveData](https://developer.android.com/reference/android/arch/lifecycle/MutableLiveData).
 
-5. W `build.gradle` (dla **API 30**), w sekcji *dependencies* dodaj wymagaja bibliotkę ktx (roszerzenie, więcej w [dokumentacji](https://developer.android.com/kotlin/ktx/extensions-list)):
+5. W `build.gradle` (dla **API 30**), w sekcji *dependencies* dodaj wymagają bibliotkę ktx (rozszerzenie, więcej w [dokumentacji](https://developer.android.com/kotlin/ktx/extensions-list)):
 
    ```java
    dependencies {
