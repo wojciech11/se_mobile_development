@@ -48,7 +48,7 @@ Na poprzednich zajęciach, pokazywaliśmy jak komunikować się między fragment
 
 3. Utwórz dwa layouts dla naszych fragmentów:
 
-   - `fragement_one.xml`:
+   - `fragment_one.xml`:
 
       ```xml
       <?xml version="1.0" encoding="utf-8"?>
