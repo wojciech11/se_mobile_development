@@ -32,7 +32,7 @@
 
    Wykład: [slajdy](03_projektowanie_aplikacji/wyklad).
 
-4. Projektowanie aplikacji mobilnych 2 [4h] (**w przygotowaniu**).
+4. Projektowanie aplikacji mobilnych 2 [4h].
 
    - [Storage & Content Providers](04_zaawansowane/lab8.md);
    - [RecyclerView. SharedPreferences](04_zaawansowane/lab9.md);
